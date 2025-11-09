@@ -1,5 +1,5 @@
-number1 = 5
-number2 = 3
+number1 = 10
+number2 = 5
 
 some = 'Addition'
 difference = 'Subtraction'
