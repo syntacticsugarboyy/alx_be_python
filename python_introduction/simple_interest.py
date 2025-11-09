@@ -6,4 +6,4 @@ time = 3 # 3 Years Duration
 
 interest = (principal * rate * time)
 
-print ('The simple interest is: {:.1f}'.format(interest))
+print ('The simple interest is: {}'.format(interest))
